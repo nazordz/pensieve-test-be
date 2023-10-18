@@ -11,3 +11,7 @@ I've worked this project to completed my code test for pensive company.
 3. Import `pensieve.sql` to your MySQL database.
 4. Import `pensieve-test.postman_collection.json` to your Postman (Optional).
 5. Run `yarn dev` to start dev server.
+
+## Login to backoffice
+- email: admin@mail.com
+- password: password
